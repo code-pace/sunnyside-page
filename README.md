@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github/code-pace/sunnyside-page]
+- Solution URL: [https://github/code-pace/sunnyside-page/]
 - Live Site URL: [https://code-pace.github.io/sunnyside-page/#]
 
 ## My process
