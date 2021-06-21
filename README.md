@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github/code-pace/sunnyside-page.com)
-- Live Site URL: [Add live site URL here](https://code-pace.github.io/sunnyside-page/#)
+- Solution URL: [https://github/code-pace/sunnyside-page]
+- Live Site URL: [https://code-pace.github.io/sunnyside-page/#]
 
 ## My process
 
